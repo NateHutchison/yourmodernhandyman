@@ -2210,13 +2210,19 @@ text-align: center;
   padding-top: 4%;
 }
 
-#leavereview .w-col-8 {
+#leavereview ul {
   margin-right: auto;
   margin-left: auto;
   font: black;
   font-size: 18px;
   line-height: 24px;
   text-align: center;
+  padding-bottom: 0%;
+  padding-top: 6%;
+}
+
+#reviewbutton a u {
+padding-bottom: 5%;
 }
 
 #leavereview {
