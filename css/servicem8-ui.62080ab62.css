@@ -2210,7 +2210,12 @@ text-align: center;
   padding-top: 4%;
 }
 
-#leavereview ul {
+/* #leavereview {
+  text-align: auto;
+  
+} */
+
+#leavereview {
   margin-right: auto;
   margin-left: auto;
   font: black;
@@ -2219,17 +2224,22 @@ text-align: center;
   text-align: center;
   padding-bottom: 0%;
   padding-top: 3%;
+  align-content: center;
+  
 }
 
-/* #reviewbutton a u {
-padding-bottom: 5%;
-} */
+a #reviewbutton {
+padding-bottom: 0%;
+align-content: center;
+} 
 
-#leavereview {
+/* #leavereview {
   display: flex;
   padding-left: 0%;
   padding-right: 0%;
-}
+text-align: center;
+} */
+
 
 .centred-div {
   max-width: 500px;
