@@ -2218,17 +2218,17 @@ text-align: center;
   line-height: 24px;
   text-align: center;
   padding-bottom: 0%;
-  padding-top: 6%;
+  padding-top: 3%;
 }
 
-#reviewbutton a u {
+/* #reviewbutton a u {
 padding-bottom: 5%;
-}
+} */
 
 #leavereview {
   display: flex;
-  padding-left: 30%;
-  padding-right: 30%;
+  padding-left: 0%;
+  padding-right: 0%;
 }
 
 .centred-div {
