@@ -1,0 +1,39 @@
+div.servicem8-feedback {
+    margin: 16px;
+    max-width: 428px;
+}
+
+div.servicem8-feedback-item {
+  padding: 16px;
+  margin: 10px 0;
+  border: #ddd 1px solid;
+  border-top-color: #eee;
+  border-bottom-color: #bbb;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  font-size: 14px;
+  color: #000;
+  background-color: #fff;
+}
+
+div.servicem8-feedback-item-time {
+    float: right;
+    margin: 10px;
+}
+
+div.servicem8-feedback-item img {
+    width: 30px;
+    margin: 5px 5px 10px 0px;
+}
+
+div.servicem8-feedback-item p {
+  font-size: 18px;
+  margin: 10px;
+  margin-top: 15px;
+}
+
+div.servicem8-feedback-footer {
+    font-size: 11px;
+    text-align: center;
+    margin: 10px;
+}
