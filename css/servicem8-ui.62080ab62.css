@@ -4044,6 +4044,7 @@ text-align: center;
     margin-top: 0px;
     margin-left: 0px;
     background-color: #fafafa;
+    padding-top: 7%;
   }
 
   .website-h1 {
@@ -4981,6 +4982,7 @@ text-align: center;
     margin-left: 0;
     flex-direction: column;
     align-items: flex-start;
+    padding-top: 7%;
   }
 
   .hero-container {
