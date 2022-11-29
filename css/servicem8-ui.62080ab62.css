@@ -3610,7 +3610,7 @@ text-align: center;
 
 .website-logo {
   max-height: 300px;
-  max-width: 335px;
+  max-width: 325px;
   padding-top: 6%;
 }
 
@@ -4978,8 +4978,9 @@ text-align: center;
     top: 0%;
     right: 0%;
     bottom: auto;
-    margin-left: 0px;
-    
+    margin-left: 0;
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .hero-container {
@@ -5003,5 +5004,12 @@ text-align: center;
 
   .online-bookin-service-description-hide-div {
     margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 300px) {
+  .website-responsive-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
   }
 }
